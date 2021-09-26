@@ -8,7 +8,8 @@
          "Spambot",
          "Telethon",
          "Pyrogram",
-         "Gladiators"
+         "Gladiators",
+         "Gladiators-Projects",
       ],   
    "repository": "https://t.me/Gladiators_Support",
    "addons": [
