@@ -57,11 +57,16 @@ def TeamArsenic_time(milliseconds: int) -> str:
 
 DEFAULTUSER = str(MASTER_NAME)
 help_img = "https://telegra.ph/file/6e92103071aa47ee7023e.mp4"
+
+[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
+"""
 dev_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
 
 
 **/ping:** Check ping of the server!!
+**/usage:** Check usage of your heroku app.
+**/logs:** Get logs.
 **/addsudo:** Use this while replying to anyone will add him as a sudo user!!
 **/rmsudo:** Use this while replying to anyone will remove him from sudo user!!
 **/leave <chat id>:** Bot will leave that chat!!
