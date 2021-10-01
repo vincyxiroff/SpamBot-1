@@ -58,8 +58,6 @@ def TeamArsenic_time(milliseconds: int) -> str:
 DEFAULTUSER = str(MASTER_NAME)
 help_img = "https://telegra.ph/file/6e92103071aa47ee7023e.mp4"
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
-"""
 dev_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
 
