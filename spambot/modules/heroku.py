@@ -190,7 +190,7 @@ async def _(dyno):
     await dyno.client.send_file(
         dyno.chat_id,
         "logs.txt",
-        thumb="hackerbot/resources/Gladiators.jpeg",
+        thumb="spambot/resources/Gladiators.jpeg",
         reply_to=dyno.id,
         caption="jarv Bot Logz.",
     )
