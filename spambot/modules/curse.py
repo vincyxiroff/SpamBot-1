@@ -486,7 +486,7 @@ async def gladiators(event):
 				return
 			rng = int(Pika[0])
 			for i in range(rng):
-				verse = random.choice(raid)
+				verse = random.choice(curses)
 				text_message = f"{mention} {verse}"
 				await event.client.send_message(event.chat, text_message)
 				await asyncio.sleep(2)
@@ -540,7 +540,7 @@ async def gladiators(event):
 				await event.reply("This guy is a Sudo user!!")
 				return
 			while a != "x":
-				verse = random.choice(raid)
+				verse = random.choice(curses)
 				text_message = f"{mention} {verse}"
 				await event.client.send_message(event.chat, text_message)
 				await asyncio.sleep(2)
