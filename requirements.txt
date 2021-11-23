@@ -21,7 +21,7 @@ spamwatch
 cachetools
 ujson
 pretty_errors
-Pyrogram
+git+https://github.com/pyrogram/pyrogram@master
 asyncio
 dateparser==1.0.0
 pymongo==3.11.0
